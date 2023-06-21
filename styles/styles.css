@@ -9,7 +9,7 @@
   --color-primary: #191d2b;
   --color-secondary: #27AE60;
   --color-white: #f8f2f2;
-  --color-black: #5ebd7652;
+  --color-black: #86a58d36;
   --color-grey0: #f8f8f8;
   --color-grey-1: #dbe1e8;
   --color-grey-2: #b2becd;
@@ -23,9 +23,9 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #F56692;
+  --color-secondary: #df84a0;
   --color-white: #454e56;
-  --color-black: #c0516979;
+  --color-black: #bb7c8a4d;
   --color-grey0: #f8f8f8;
   --color-grey-1: #6c7983;
   --color-grey-2: #6c7983;
